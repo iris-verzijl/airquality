@@ -1,0 +1,26 @@
+;;2015;2016;2017;2018;2019;2020
+Amsterdam -Kantershof;NL49002;50.0;51.0;50.0;37.0;31.0;24.0
+Amsterdam-Einsteinweg;NL49003;4.5;6.6;5.0;4.1;4.1;2.6
+Amsterdam-Haarlemmerweg;NL49007;37.0;43.0;34.0;32.0;27.0;19.0
+Amsterdam-Jan van Galenstraat;NL49012;21.0;23.0;17.0;17.0;18.0;11.0
+Amsterdam-Nieuwendammerdijk;NL49014;5.0;6.0;4.9;3.8;3.1;2.1
+Amsterdam-Ookmeer;NL49017;19.0;22.0;21.0;17.0;16.0;11.0
+Amsterdam-Oude Schans;NL49019;6.4;8.4;6.3;5.4;5.0;3.0
+Amsterdam-Stadhouderskade;NL49020;33.0;37.0;31.0;25.0;24.0;15.0 *
+Amsterdam-Van Diemenstraat;NL49021;4.7;6.9;4.9;3.8;3.6;2.3
+Amsterdam-Vondelpark;NL49022;4.6;6.4;5.3;4.0;4.1;2.5
+Badhoevedorp-Sloterweg;NL49546;12.0;13.0;13.0;11.0 *;10.0;8.0
+Hoofddorp-Hoofdweg;NL49551;7.6;10.0;8.4;8.5;6.6;5.2
+IJmuiden-Kanaalstraat;NL49553;7.1;7.3;6.2;5.9;5.7;5.0
+Oude Meer-Aalsmeerderdijk;NL49561;10.0;13.0;11.0;8.3;8.6;5.4
+Spaarnwoude-Machineweg;NL49564;6.1;8.1;7.7;6.2;5.7;2.9
+Wijk aan Zee-De Banjaert;NL49565;6.0;7.9;6.0;4.9;5.2;2.9
+Zaandam-Wagenschotpad;NL49701;5.1;7.6;5.6;4.3;4.6;3.3
+Zaanstad-Hemkade;NL49703;4.5;6.2;4.6;3.9;3.8;2.3
+Zaanstad-Hoogtij;NL49704;10.0;12.0;10.0;10.0;9.4;7.5
+;;;;;;;
+;Meetpunten van GGD Amsterdam;;;;;;
+;* = *=  Minder dan 90% van de gekozen periode beschikbaar (uur/dag);;;;;;
+;Wijzigingen van eerder gerapporteerde data zie https://www.luchtmeetnet.nl/informatie/download-data/rapportage-correcties;;;;;;
+;microgram/m3;;;;;;
+;Export d.d.:                 07-11-2022;;;;;;
